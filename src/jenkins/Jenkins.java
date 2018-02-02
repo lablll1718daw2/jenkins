@@ -28,7 +28,8 @@ public class Jenkins {
             bw.write("</html>");bw.newLine();
             
             bw.close();
-            bw.write("    Modificació del projecte jenkins");bw.newLine();
+            
         }
     }
 }
+bw.write("    Modificació del projecte jenkins");bw.newLine();
